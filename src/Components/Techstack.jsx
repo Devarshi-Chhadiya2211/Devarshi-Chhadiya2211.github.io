@@ -50,7 +50,7 @@ const IconComponent = ({ icon: Icon, name, color, hoverColor }) => {
 const WorkExperience = [
   {
     id: 1,
-    title: "Programming Languages , Frameworks & Libraries",
+    title: "Programming Languages, Frameworks & Libraries",
     company: "Front-End",
     yearsActive: "html",
     information: [
